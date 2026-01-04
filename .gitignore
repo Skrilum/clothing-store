@@ -1,0 +1,8 @@
+includes/config.php
+includes/connection.php
+
+/uploads/*
+
+/tests/
+
+.htaccess
